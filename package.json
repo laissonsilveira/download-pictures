@@ -1,0 +1,27 @@
+{
+  "name": "download-pictures",
+  "version": "1.0.0",
+  "description": "Download pictures by URL",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laissonsilveira/download-pictures.git"
+  },
+  "keywords": [
+    "download",
+    "pictures"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laissonsilveira/download-pictures/issues"
+  },
+  "homepage": "https://github.com/laissonsilveira/download-pictures#readme",
+  "dependencies": {
+    "image-downloader": "^3.3.0"
+  }
+}
